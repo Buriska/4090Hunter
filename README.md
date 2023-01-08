@@ -24,6 +24,8 @@ App.config
 
 Once these values have been set, run the application and it should begin automatically checking BestBuy.com every few minutes for 4090FE inventory. This bot uses your local ISP and does not make use of any proxies, please refrain from checking the website at a higher frequency as this may lead to a block or ban from BestBuy.com.
 
+Good luck and happy hunting!
+
 
 
 
