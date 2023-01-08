@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4090Hunter", "4090Hunter\4090Hunter.csproj", "{57AACD1F-6960-445D-AE29-79501C5F49F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57AACD1F-6960-445D-AE29-79501C5F49F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57AACD1F-6960-445D-AE29-79501C5F49F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57AACD1F-6960-445D-AE29-79501C5F49F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57AACD1F-6960-445D-AE29-79501C5F49F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFD5C905-76CA-4C0E-BED3-8EA65B7AEB55}
+	EndGlobalSection
+EndGlobal
