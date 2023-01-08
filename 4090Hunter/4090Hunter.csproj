@@ -10,7 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="nvda.ico">
+    <Content Include="Images\nvda.ico">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
