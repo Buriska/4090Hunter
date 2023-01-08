@@ -1,6 +1,6 @@
 # 4090Hunter
 
-Simple bot designed to help the average user beat the scalpers and acquire a 4090FE from Best Buy for their own personal use.
+Simple bot designed to help the average user beat the scalpers and acquire a 4090FE GPU from Best Buy for their own personal use.
 
 ![4090 Hunter Console Window](https://github.com/Buriska/4090Hunter/blob/master/4090Hunter/4090Hunter.png)
 
