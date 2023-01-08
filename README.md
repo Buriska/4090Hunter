@@ -8,7 +8,7 @@ Simple bot designed to help the average user beat the scalpers and acquire a 409
 
 This application uses [Discord.Net](https://github.com/discord-net/Discord.Net) to notify the user when stock is available. Before you can run the bot, you will need a **Discord Role ID** (for mentions) and **Discord Webhook URL** (where the message should be sent).
 
-You can set these values in the App.config file under the **'RoleID'** and **'Webhook'** keys.
+You can set these values in the **App.config** file under the **'RoleID'** and **'Webhook'** keys.
 
 ``` 
 App.config
