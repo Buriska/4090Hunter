@@ -6,7 +6,7 @@
     <RootNamespace>_4090Hunter</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <ApplicationIcon>nvda.ico</ApplicationIcon>
+    <ApplicationIcon>Images\nvda.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
