@@ -16,8 +16,8 @@ App.config
 <?xml version="1.0" encoding="utf-8" ?>
 <configuration>
 	<appSettings>
-		<add key="RoleID" value="<Discord Role ID>" />
-		<add key="Webhook" value="<Discord Webhook URL>" />
+		<add key="RoleID" value="***ROLE ID HERE***" />
+		<add key="Webhook" value="***WEBHOOK URL HERE***" />
 	</appSettings>
 </configuration>
 ```
