@@ -17,7 +17,7 @@ bool keepRunning = true;
 
 while (keepRunning)
 {
-    Console.ForegroundColor = ConsoleColor.Red;
+    Console.ForegroundColor = ConsoleColor.Green;
     Console.WriteLine(title);
     Console.WriteLine(Environment.NewLine);
     Console.ResetColor();
